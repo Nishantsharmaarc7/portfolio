@@ -1,0 +1,15 @@
+body{
+  background-color: #33ff99;
+}
+#skills{
+  color: rgb(51, 19, 233);
+}
+.studies{
+  color: blueviolet;
+}
+.h{
+  color: azure;
+}
+img:hover{
+  background-color: gold;
+}
